@@ -4,8 +4,8 @@
         "serialNumber": "34-343",
         "price": 3123.75, 
         "builder": "Gibson", 
-        "Model" : "Les Paul", 
-        "Type" : "Electric", 
+        "model" : "Les Paul", 
+        "type" : "Electric", 
         "backwood": "Maple", 
         "topwood" : "Walnut"
     },
@@ -13,8 +13,8 @@
         "serialNumber": "74-323",
         "price": 5407.00, 
         "builder": "Fender", 
-        "Model" : "Stratocaster", 
-        "Type" : "Electric", 
+        "model" : "Stratocaster", 
+        "type" : "Electric", 
         "backwood": "Cedar", 
         "topwood" : "Mahogany"
     },
@@ -22,8 +22,8 @@
         "serialNumber": "11-421",
         "price": 109.50, 
         "builder": "Yamaha", 
-        "Model" : "F310", 
-        "Type" : "Acoustic", 
+        "model" : "F310", 
+        "type" : "Acoustic", 
         "backwood": "Ash", 
         "topwood" : "Birch"
     },
@@ -31,8 +31,8 @@
         "serialNumber": "67-965",
         "price": 19.76, 
         "builder": "Tanglewood", 
-        "Model" : "Crossroads", 
-        "Type" : "Acoustic", 
+        "model" : "Crossroads", 
+        "type" : "Acoustic", 
         "backwood": "Mahogany", 
         "topwood" : "Mahogany"
     },
@@ -40,8 +40,8 @@
         "serialNumber": "74-343",
         "price": 2500.00, 
         "builder": "Gibson", 
-        "Model" : "Hummingbird", 
-        "Type" : "Electric", 
+        "model" : "Hummingbird", 
+        "type" : "Electric", 
         "backwood": "Mahogany", 
         "topwood" : "Walnut"
     },
@@ -49,8 +49,8 @@
         "serialNumber": "17-421",
         "price": 99.50, 
         "builder": "Yamaha", 
-        "Model" : "F100", 
-        "Type" : "Acoustic", 
+        "model" : "F100", 
+        "type" : "Acoustic", 
         "backwood": "Ash", 
         "topwood" : "Birch"
     }
